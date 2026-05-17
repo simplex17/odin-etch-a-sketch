@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    padding: 8px 16px;
+}
+
+.btn-container,
+.container {
+    margin: auto;
+    width: 960px;
+}
+
+.btn-container {
+    display: flex;
+    gap: 1em;
+    margin-block: 16px;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    aspect-ratio: 1/1;
+    border: 1px solid black;
+    flex: 1;
+}

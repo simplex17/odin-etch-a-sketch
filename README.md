@@ -1,1 +1,1 @@
-# odin-etch-a-sketch
+This project's primary focus is to practice my DOM manipulation skills.
